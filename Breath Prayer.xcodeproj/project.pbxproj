@@ -32,17 +32,17 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		256D33A02F0A72C3000FB75A /* Breath Prayer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Breath Prayer";
+			path = "App";
 			sourceTree = "<group>";
 		};
 		256D33B02F0A72C5000FB75A /* Breath PrayerTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Breath PrayerTests";
+			path = "Tests/Integration";
 			sourceTree = "<group>";
 		};
 		256D33BA2F0A72C5000FB75A /* Breath PrayerUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Breath PrayerUITests";
+			path = "Tests/UITests";
 			sourceTree = "<group>";
 		};
 		256D33CA2F0A73B0000FB75A /* LocalPackages */ = {
@@ -588,3 +588,4 @@
 	};
 	rootObject = 256D33962F0A72C3000FB75A /* Project object */;
 }
+
