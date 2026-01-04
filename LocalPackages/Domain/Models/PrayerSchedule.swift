@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct PrayerSchedule: Codable {
+public struct PrayerSchedule: Codable {
     var startTime: DateComponents
     var endTime: DateComponents
     var intervalMinutes: Int

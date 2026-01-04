@@ -7,8 +7,8 @@
 
 import Foundation
 
-struct PrayerNote: Identifiable, Codable {
-    let id: UUID
+public struct PrayerNote: Identifiable, Codable {
+    public let id: UUID
     let personId: UUID
     let text: String
     let createdAt: Date
