@@ -45,6 +45,11 @@
 			path = "Breath PrayerUITests";
 			sourceTree = "<group>";
 		};
+		256D33CA2F0A73B0000FB75A /* LocalPackages */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = LocalPackages;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +84,7 @@
 				256D33B02F0A72C5000FB75A /* Breath PrayerTests */,
 				256D33BA2F0A72C5000FB75A /* Breath PrayerUITests */,
 				256D339F2F0A72C3000FB75A /* Products */,
+				256D33CA2F0A73B0000FB75A /* LocalPackages */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				256D33A02F0A72C3000FB75A /* Breath Prayer */,
+				256D33CA2F0A73B0000FB75A /* LocalPackages */,
 			);
 			name = "Breath Prayer";
 			packageProductDependencies = (
